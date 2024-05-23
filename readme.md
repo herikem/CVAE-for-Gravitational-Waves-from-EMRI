@@ -3,7 +3,7 @@ We are developing this project with the understanding that CVAE is rapidly evolv
 We believe that another public code would be a valuable addition to this collaborative community.
 Anyone is welcome to monitor and discuss with us about the project as it progresses.
 
-The code is distributed under the Creative Commons Attribution license.
+The code is distributed under the GNU General Public License and the related theoretical studies will be published under the Creative Commons Attribution license.
 The database link can be requested from me, Hong Guo, or Wei-Liang Qian.
 
 [1] Bayesian parameter estimation using conditional variational autoencoders for gravitational-wave astronomy, by Hunter Gabbard et al., arXiv:1909.06296.
